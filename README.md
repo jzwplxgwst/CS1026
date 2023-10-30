@@ -4,7 +4,7 @@ This course provides an introduction to the basic concepts of computer programmi
 
 Course topics include data types, variables, expressions, program constructs, strings (text), functions, basic data structures (lists, tuples, sets dictionaries), objects, object oriented design, classes, modularity, and problem solving techniques
 
-##Assignments
+## Assignments
 - Assignment 1 
 - Assignment 2 - Pizza Ordering System: A Python program computes a pizza order for the user and displays the receipt.
 - Assignment 3 - Universities Ranking: A Python program that deals with ordering a list of universities onto a txt file.
